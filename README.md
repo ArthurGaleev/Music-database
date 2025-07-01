@@ -1,5 +1,5 @@
-# Simple-database
-Simple database for a music streaming service
+# Music-database
+Database for a music streaming service
 
 Concept diagram:
 
