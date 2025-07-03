@@ -10,3 +10,6 @@ Concept diagram:
 Logic diagram:
 
 ![logic_diagram](logic_diagram.png)
+
+## Dependencies
+Ноутбук с демонстрацией БД использует библиотеки [`Pandas`](https://pandas.pydata.org), [`Matplotlib`](https://matplotlib.org), [`Psycopg`](https://www.psycopg.org/) и [`SQLAlchemy`](https://www.sqlalchemy.org/).
